@@ -1,0 +1,38 @@
+[
+    {
+        "name": "John",
+        "email": "john@gmail.com",
+        "phone": "202-232-4242",
+        "available": true
+    },
+    {
+        "name": "Matt",
+        "email": "matt@gmail.com",
+        "phone": "202-232-4242",
+        "available": true
+    },
+    {
+        "name": "Scottridle",
+        "email": "scottridle@gmail.com",
+        "phone": "202-232-4242",
+        "available": true
+    },
+    {
+        "name": "Crabman",
+        "email": "crabman@gmail.com",
+        "phone": "202-232-4242",
+        "available": true
+    },
+    {
+        "name": "Jordanmil",
+        "email": "jordanmil@gmail.com",
+        "phone": "202-232-4242",
+        "available": true
+    },
+    {
+        "name": "James",
+        "email": "james@gmail.com",
+        "phone": "202-232-4242",
+        "available": true
+    }
+]
